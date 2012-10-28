@@ -1,0 +1,22 @@
+C:\Users\Jim\AppData\Local\Temporary Projects\TheIceMachine\bin\Debug\TheIceMachine.exe
+C:\Users\Jim\AppData\Local\Temporary Projects\TheIceMachine\bin\Debug\TheIceMachine.pdb
+C:\Users\Jim\AppData\Local\Temporary Projects\TheIceMachine\bin\Debug\TheIceMachine.xml
+C:\Users\Jim\AppData\Local\Temporary Projects\TheIceMachine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jim\AppData\Local\Temporary Projects\TheIceMachine\obj\x86\Debug\TheIceMachine.Form1.resources
+C:\Users\Jim\AppData\Local\Temporary Projects\TheIceMachine\obj\x86\Debug\TheIceMachine.Resources.resources
+C:\Users\Jim\AppData\Local\Temporary Projects\TheIceMachine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jim\AppData\Local\Temporary Projects\TheIceMachine\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jim\AppData\Local\Temporary Projects\TheIceMachine\obj\x86\Debug\TheIceMachine.exe
+C:\Users\Jim\AppData\Local\Temporary Projects\TheIceMachine\obj\x86\Debug\TheIceMachine.xml
+C:\Users\Jim\AppData\Local\Temporary Projects\TheIceMachine\obj\x86\Debug\TheIceMachine.pdb
+C:\Users\Jim\documents\visual studio 2010\Projects\TheIceMachine\TheIceMachine\obj\x86\Debug\TheIceMachine.exe
+C:\Users\Jim\documents\visual studio 2010\Projects\TheIceMachine\TheIceMachine\obj\x86\Debug\TheIceMachine.xml
+C:\Users\Jim\documents\visual studio 2010\Projects\TheIceMachine\TheIceMachine\obj\x86\Debug\TheIceMachine.pdb
+C:\Users\Jim\documents\visual studio 2010\Projects\TheIceMachine\TheIceMachine\bin\Debug\TheIceMachine.exe
+C:\Users\Jim\documents\visual studio 2010\Projects\TheIceMachine\TheIceMachine\bin\Debug\TheIceMachine.pdb
+C:\Users\Jim\documents\visual studio 2010\Projects\TheIceMachine\TheIceMachine\bin\Debug\TheIceMachine.xml
+C:\Users\Jim\documents\visual studio 2010\Projects\TheIceMachine\TheIceMachine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jim\documents\visual studio 2010\Projects\TheIceMachine\TheIceMachine\obj\x86\Debug\TheIceMachine.Form1.resources
+C:\Users\Jim\documents\visual studio 2010\Projects\TheIceMachine\TheIceMachine\obj\x86\Debug\TheIceMachine.Resources.resources
+C:\Users\Jim\documents\visual studio 2010\Projects\TheIceMachine\TheIceMachine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jim\documents\visual studio 2010\Projects\TheIceMachine\TheIceMachine\obj\x86\Debug\GenerateResource.write.1.tlog
