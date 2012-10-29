@@ -22,6 +22,7 @@ Partial Class Form1
     'Das Bearbeiten mit dem Code-Editor ist nicht möglich.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         Me.lblDragAreaCoinInput = New System.Windows.Forms.Label()
         Me.lblHiddenField = New System.Windows.Forms.Label()
@@ -36,6 +37,8 @@ Partial Class Form1
         Me.radFlavorSpinach = New System.Windows.Forms.RadioButton()
         Me.radFlavorRaspberry = New System.Windows.Forms.RadioButton()
         Me.radFlavorVanilla = New System.Windows.Forms.RadioButton()
+        Me.ttpHelper = New System.Windows.Forms.ToolTip(Me.components)
+        Me.btnClose = New System.Windows.Forms.Button()
         CType(Me.trkBarSize, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.picIceOutput, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.pnlGroupFlavor.SuspendLayout()
@@ -187,6 +190,19 @@ Partial Class Form1
         Me.radFlavorVanilla.Text = "Vanille"
         Me.radFlavorVanilla.UseVisualStyleBackColor = True
         '
+        'ttpHelper
+        '
+        Me.ttpHelper.IsBalloon = True
+        '
+        'btnClose
+        '
+        Me.btnClose.Location = New System.Drawing.Point(395, 588)
+        Me.btnClose.Name = "btnClose"
+        Me.btnClose.Size = New System.Drawing.Size(75, 23)
+        Me.btnClose.TabIndex = 16
+        Me.btnClose.Text = "schliessen"
+        Me.btnClose.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -195,6 +211,7 @@ Partial Class Form1
         Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None
         Me.ClientSize = New System.Drawing.Size(490, 618)
+        Me.Controls.Add(Me.btnClose)
         Me.Controls.Add(Me.pnlGroupFlavor)
         Me.Controls.Add(Me.picIceOutput)
         Me.Controls.Add(Me.txtSelection)
@@ -205,6 +222,9 @@ Partial Class Form1
         Me.Controls.Add(Me.lblDragAreaCoinInput)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
         Me.Name = "Form1"
+        Me.ShowIcon = False
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Text = "The Ice Machine"
         CType(Me.trkBarSize, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.picIceOutput, System.ComponentModel.ISupportInitialize).EndInit()
         Me.pnlGroupFlavor.ResumeLayout(False)
@@ -226,5 +246,7 @@ Partial Class Form1
     Friend WithEvents radFlavorSpinach As System.Windows.Forms.RadioButton
     Friend WithEvents radFlavorRaspberry As System.Windows.Forms.RadioButton
     Friend WithEvents radFlavorVanilla As System.Windows.Forms.RadioButton
+    Friend WithEvents ttpHelper As System.Windows.Forms.ToolTip
+    Friend WithEvents btnClose As System.Windows.Forms.Button
 
 End Class
